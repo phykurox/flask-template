@@ -1,0 +1,5 @@
+FLASK_APP=app/main.py
+APP_NAME=SampleApp
+FLASK_RUN_PORT=8080
+FLASK_DEBUG=0
+ENV_NAME=development

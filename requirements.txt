@@ -1,0 +1,14 @@
+## RESTful
+wheel
+flask
+flask_cors
+flask_restx
+requests 
+cerberus
+pymongo
+# Remove below comment if using SQL database
+# sqlalchemy
+
+## Flask env
+python-dotenv
+werkzeug
